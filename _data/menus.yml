@@ -1,13 +1,13 @@
-- name: HOME
+- name: PRINCIPAL
   url: /
   icon: home
-- name: CATEGORY
+- name: CATEGORIAS
   url: /category/
   icon: "&#xe53b;"
 - name: TAGS
   url: /tags/
   icon: "&#xe893;"
-- name: FRIENDS
+- name: PARCEIROS
   url: /friends/
   icon: "&#xe8a3;"
 - name: EDITOR
