@@ -1,7 +1,7 @@
 title: "Jekyll-Theme-MDUI"
 description: "A Jekyll theme based on MDUI"
-url: 
-baseurl: ""
+url: https://thenerdtavern.github.io 
+baseurl: "project-v4"
 author: "KeJun"
 paginate: 5
 paginate_path: "/blog/page:num/"
