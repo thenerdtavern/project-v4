@@ -1,8 +1,8 @@
-title: "Jekyll-Theme-MDUI"
-description: "A Jekyll theme based on MDUI"
+title: "The Nerd Tavern"
+description: "Porque todo RPG começa em uma Taverna"
 url: "https://thenerdtavern.github.io"
 baseurl: "/project-v4"
-author: "KeJun"
+author: "Tarbeneiro"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
